@@ -1,0 +1,56 @@
+#ann {
+	width: 640px;
+	height: 44px;
+	margin: 0px auto;
+	padding: 0px;
+	border: solid #E7E7E7;
+	border-width: 0px 0px;
+	background: #FAFAFA;
+}
+
+#ann dl {
+	overflow: hidden;
+}
+
+#ann dt {
+	float: left;
+	width: 75px;
+	height: 16px;
+	line-height: 16px;
+	background: url(../.././images/ann_icon.gif) no-repeat 0 50%; 
+	margin-left: 20px;
+	text-indent: 28px;
+	font-weight: 800; 
+}
+
+#ann dd {
+	height: 16px;
+	line-height: 16px;
+	margin-left: 20px;
+	text-indent: 28px;
+	font-weight: 800; 
+}
+
+#ann span {
+	margin-left: 5px;
+	font-size: 12px;
+}
+
+#ann .marquee {
+	overflow: hidden;
+	margin-left: 75px;
+	height: 16px;
+	line-height: 16px;
+	margin-right: 20px;
+}
+
+#ann ul {
+	margin-top: 1px;
+	list-style-type: none;
+}
+
+#ann li {
+	display: inline;
+    padding-right: 40px;
+}
+
